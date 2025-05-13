@@ -1,5 +1,4 @@
 package _00_intro_to_array_lists;
-
 import java.util.ArrayList;
 
 public class ArrayListDemo {
