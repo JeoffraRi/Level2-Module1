@@ -27,5 +27,4 @@ public class IntroToArrayLists {
 		
 		//7. Print only the Strings that have the letter 'e' in them.
 	}
-	
 }
