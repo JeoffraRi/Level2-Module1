@@ -22,6 +22,7 @@ public class IntroToArrayLists {
 			System.out.println(coolStuff);
 		}
 		//5. Print only the even numbered elements in the list.
+		//e
 		
 		//6. Print all the Strings in reverse order.
 		
